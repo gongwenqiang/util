@@ -72,6 +72,7 @@ public class DigitConvertAlg {
             decimal += num * keisu;
             cnt++;
         }
+
         return String.format("%0" + length + "d", decimal);
     }
 
