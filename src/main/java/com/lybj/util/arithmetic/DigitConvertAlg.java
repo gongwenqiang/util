@@ -1,4 +1,4 @@
-package com.lybj.util;
+package com.lybj.util.arithmetic;
 
 /**
  * 数字转换算法
